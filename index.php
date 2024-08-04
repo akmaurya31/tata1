@@ -377,44 +377,28 @@ form {
             <p>
                 Applying for a Zudio franchise can be a rewarding experience for fashion enthusiasts looking to run their businesses. By following these steps and contacting the Zudio franchise team, you can increase your chances of becoming a successful Zudio franchisee.
             </p>
-            <form method="post" name="New Form">
+            <form method="post" name="New Form" action="save.php">
 
                 <div class="form-group">
                     <label for="form-field-name">Enter Your Full Name*</label>
-                    <input type="text" name="form_fields[name]" id="form-field-name" class="form-control" placeholder="Name" required>
+                    <input type="text" name="Name" id="form-field-name" class="form-control" placeholder="Name" required>
                 </div>
 
                 <div class="form-group">
                     <label for="form-field-email">Enter Your Email Address*</label>
-                    <input type="email" name="form_fields[email]" id="form-field-email" class="form-control" placeholder="Email" required>
+                    <input type="email" name="Email" id="form-field-email" class="form-control" placeholder="Email" required>
                 </div>
 
                 <div class="form-group">
                     <label for="form-field-field_6e255d8">Enter Your Phone Number</label>
-                    <input type="number" name="form_fields[field_6e255d8]" id="form-field-field_6e255d8" class="form-control" placeholder="Phone" required>
+                    <input type="number" name="Phone" id="form-field-field_6e255d8" class="form-control" placeholder="Phone" required>
                 </div>
 
-                <div class="form-group">
-                    <label>Franchise Type</label>
-                    <div class="form-check">
-                        <input type="radio" value="Mini Store (40 - 50 Lakhs)" id="form-field-field_b183f3b-0" name="form_fields[field_b183f3b]" class="form-check-input" required>
-                        <label for="form-field-field_b183f3b-0" class="form-check-label">Mini Store (40 - 50 Lakhs)</label>
-                    </div>
-                    <div class="form-check">
-                        <input type="radio" value="Exclusive Store (1-1.5 Crore)" id="form-field-field_b183f3b-1" name="form_fields[field_b183f3b]" class="form-check-input" required>
-                        <label for="form-field-field_b183f3b-1" class="form-check-label">Exclusive Store (1-1.5 Crore)</label>
-                    </div>
-                    <div class="form-check">
-                        <input type="radio" value="Mega Store (1.5-2.25 Crore)" id="form-field-field_b183f3b-2" name="form_fields[field_b183f3b]" class="form-check-input" required>
-                        <label for="form-field-field_b183f3b-2" class="form-check-label">Mega Store (1.5-2.25 Crore)</label>
-                    </div>
-                </div>
 
                 <div class="form-group">
                     <label for="form-field-field_446b4e2">State</label>
-                    <select name="form_fields[field_446b4e2]" id="form-field-field_446b4e2" class="form-control" required>
+                    <select name="State" id="form-field-field_446b4e2" class="form-control" required>
                         <option value="">Select State</option>
-						<option value=""></option>
 									<option value="Arunachal Pradesh">Arunachal Pradesh</option>
 									<option value="Assam">Assam</option>
 									<option value="Bihar">Bihar</option>
@@ -455,22 +439,22 @@ form {
 
                 <div class="form-group">
                     <label for="form-field-field_d0520e1">Enter Your Pincode</label>
-                    <input type="number" name="form_fields[field_d0520e1]" id="form-field-field_d0520e1" class="form-control" placeholder="Pincode" required>
+                    <input type="number" name="Pincode" id="form-field-field_d0520e1" class="form-control" placeholder="Pincode" required>
                 </div>
 
                 <div class="form-group">
                     <label for="form-field-field_ea0734d">Business Name (if applicable)</label>
-                    <input type="text" name="form_fields[field_ea0734d]" id="form-field-field_ea0734d" class="form-control" placeholder="Business Name">
+                    <input type="text" name="BusinessName" id="form-field-field_ea0734d" class="form-control" placeholder="Business Name">
                 </div>
 
                 <div class="form-group">
                     <label for="form-field-field_ea0734d">Business Address (if applicable)</label>
-                    <input type="text" name="form_fields[field_ea0734d]" id="form-field-field_ea0734d" class="form-control" placeholder="Business Address">
+                    <input type="text" name="BusinessAddress" id="form-field-field_ea0734d" class="form-control" placeholder="Business Address">
                 </div>
 
                 <div class="form-group">
                     <label for="form-field-field_e8e449a">Website (if applicable)</label>
-                    <input type="text" name="form_fields[field_e8e449a]" id="form-field-field_e8e449a" class="form-control" placeholder="Website">
+                    <input type="text" name="Website" id="form-field-field_e8e449a" class="form-control" placeholder="Website">
                 </div>
 
                 <div class="form-group">
@@ -485,9 +469,21 @@ form {
                     </div>
                 </div>
 
+                
                 <div class="form-group">
-                    <label for="form-field-field_e8e449a">Type of Franchise</label>
-                    <input type="text" name="form_fields[field_e8e449a]" id="form-field-field_e8e449a" class="form-control" placeholder="Type of Franchise">
+                    <label>Franchise Type</label>
+                    <div class="form-check">
+                        <input type="radio" value="Mini Store (40 - 50 Lakhs)" id="form-field-field_b183f3b-0" name="FranchiseType" class="form-check-input" required>
+                        <label for="form-field-field_b183f3b-0" class="form-check-label">Mini Store (40 - 50 Lakhs)</label>
+                    </div>
+                    <div class="form-check">
+                        <input type="radio" value="Exclusive Store (1-1.5 Crore)" id="form-field-field_b183f3b-1" name="FranchiseType" class="form-check-input" required>
+                        <label for="form-field-field_b183f3b-1" class="form-check-label">Exclusive Store (1-1.5 Crore)</label>
+                    </div>
+                    <div class="form-check">
+                        <input type="radio" value="Mega Store (1.5-2.25 Crore)" id="form-field-field_b183f3b-2" name="FranchiseType" class="form-check-input" required>
+                        <label for="form-field-field_b183f3b-2" class="form-check-label">Mega Store (1.5-2.25 Crore)</label>
+                    </div>
                 </div>
 
                 <div class="form-group">
