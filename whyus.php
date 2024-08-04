@@ -55,6 +55,23 @@
                 </ul>
             </div>
         </div>
+
+        <h1>Frequently Asked Questions (FAQ)</h1>
+        <h2>What is the Zudio franchise cost?</h2>
+        <p>The Zudio franchise cost ranges from 2 to 3 crore, which includes the franchise fee, security deposit, stamp duty registration, and meeting the net worth requirement.</p>
+        
+        <h2>What is the profit margin of the Zudio franchise?</h2>
+        <p>The Zudio franchise profit margin falls between 15 to 20% of the total revenue.</p>
+        
+        <h2>What is the franchise fee for Zudio?</h2>
+        <p>The franchise fee for Zudio is 10 lakh, which is a one-time payment to gain access to the Zudio brand and business model.</p>
+        
+        <h2>What is the required space for a Zudio franchise?</h2>
+        <p>A Zudio franchise typically requires between 6,000 to 8,000 square feet of space to accommodate the layout of the store.</p>
+        
+        <h2>What is the franchise agreement period?</h2>
+        <p>The franchise agreement period is 7 years, and it can be renewed for more years if desired.</p>
+        
     </div>
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>

@@ -95,6 +95,55 @@
             <p>Our financial experts will assist you with planning and managing your franchise finances to ensure profitability.</p>
             <a href="#" class="btn">Learn More</a>
         </div>
+    
+        <h1>Store Timings</h1>
+        <p>Our Zudio stores are open seven days a week to serve you better. Below are the opening and closing times for our stores:</p>
+        <table>
+            <thead>
+                <tr>
+                    <th>Day</th>
+                    <th>Opening Time</th>
+                    <th>Closing Time</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Monday</td>
+                    <td>10:00 AM</td>
+                    <td>9:00 PM</td>
+                </tr>
+                <tr>
+                    <td>Tuesday</td>
+                    <td>10:00 AM</td>
+                    <td>9:00 PM</td>
+                </tr>
+                <tr>
+                    <td>Wednesday</td>
+                    <td>10:00 AM</td>
+                    <td>9:00 PM</td>
+                </tr>
+                <tr>
+                    <td>Thursday</td>
+                    <td>10:00 AM</td>
+                    <td>9:00 PM</td>
+                </tr>
+                <tr>
+                    <td>Friday</td>
+                    <td>10:00 AM</td>
+                    <td>9:00 PM</td>
+                </tr>
+                <tr>
+                    <td>Saturday</td>
+                    <td>10:00 AM</td>
+                    <td>9:00 PM</td>
+                </tr>
+                <tr>
+                    <td>Sunday</td>
+                    <td>10:00 AM</td>
+                    <td>9:00 PM</td>
+                </tr>
+            </tbody>
+        </table>
     </div>
 
     <footer>

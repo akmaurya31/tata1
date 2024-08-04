@@ -10,10 +10,19 @@
     <div class="container">
         <header class="my-4">
             <h1 class="text-center">About Zudio Franchise</h1>
+            <p>Zudio is a fashion retail brand that is part of the Tata Group, founded in 1998. It offers a wide selection of clothes and accessories in the newest designs at reasonable costs, making fashion accessible to everyone. Zudio's collection includes sportswear, casual wear, and formal clothing for men, women, and children.</p>
+            
+            <p>The first Zudio location, approximately 8000 square feet, opened in Bangalore in September 2016. Currently, there are 352 outlets throughout India, offering products in categories such as loungewear, footwear, kids' clothing, men's clothing, women's clothing, and beauty items.</p>
+            
+            <p>Zudio operates under the FOCO model (Franchise Owned, Company Operated), where the franchisee invests in the business, but the company supports and manages it on their behalf. This model allows for faster expansion and ensures consistent quality and customer service across all outlets.</p>
+            
+            <p>With a vision to spread rapidly throughout India, Zudio aims to provide the newest fashion every week, making it a popular choice among customers looking for trendy and affordable clothing options.</p>
+
         </header>
 
         <section class="mb-4">
             <h2>Welcome to Zudio</h2>
+            
             <p>Step into the fashion world with a Zudio franchise and turn your business aspirations into reality. Zudio is a leading fashion retail brand known for its stylish and affordable clothing, accessories, and more. With a Zudio franchise, you’ll have the opportunity to be a part of this exciting industry.</p>
         </section>
 
