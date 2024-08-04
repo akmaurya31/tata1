@@ -24,7 +24,7 @@ Role of Company:-
 ➢ Company will Provide pamphlets, will give TV Ad, Radio Ad, Hoardings, News Paper Advt, Glow Sign Board.
 ➢ Company will do Vendor Registration with all the vendors for All Brand Products.
 ➢ Company will assist Stores/Exclusive Showroom in hiring & training of Employee.
-➢ All communication to the Store/Exclusive Showroom is done via an official Email Id -  info.tatazudiofranchise@gmail.com.
+➢ All communication to the Store/Exclusive Showroom is done via an official Email Id -  distributor.india.franchise@gmail.com.
 
 Role Of Stores/Exclusive Showroom:-
 
@@ -80,12 +80,11 @@ Required Documents:-
 
 7) TATA ZUDIO TRENT LIMITED APPLICATION FORM (ATTACHED)
 
-ALL REQUIRED DOCUMENT SEND AT EMAIL ID - info.tatazudiofranchise@gmail.com
+ALL REQUIRED DOCUMENT SEND AT EMAIL ID - distributor.india.franchise@gmail.com
 
 
 ADDRESS:- TRENT HOUSE, G BLOCK, PLOT NO- C-60, BESIDE CITIBANK, BANDRA KURLA COMPLEX, BANDRA EAST, MUMBAI, MAHARASHTRA - 400051 India
-support.tatazudiofranchise@gmail.com
-
+support.franchise.india@gmail.com
 
 Thanks & Regards,
 TATA ZUDIO TRENT LIMITED.
