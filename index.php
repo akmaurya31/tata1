@@ -477,8 +477,8 @@ form {
                         <label for="form-field-field_b183f3b-0" class="form-check-label">Mini Store (40 - 50 Lakhs)</label>
                     </div>
                     <div class="form-check">
-                        <input type="radio" value="Exclusive Store (1-1.5 Crore)" id="form-field-field_b183f3b-1" name="FranchiseType" class="form-check-input" required>
-                        <label for="form-field-field_b183f3b-1" class="form-check-label">Exclusive Store (1-1.5 Crore)</label>
+                        <input type="radio" value="Exclusive Store (90 Lakhs - 1 Crore)" id="form-field-field_b183f3b-1" name="FranchiseType" class="form-check-input" required>
+                        <label for="form-field-field_b183f3b-1" class="form-check-label">Exclusive Store (90 Lakhs - 1 Crore)</label>
                     </div>
                     <div class="form-check">
                         <input type="radio" value="Mega Store (1.5-2.25 Crore)" id="form-field-field_b183f3b-2" name="FranchiseType" class="form-check-input" required>
