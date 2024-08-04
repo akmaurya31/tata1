@@ -10,7 +10,7 @@
 <link rel="alternate" type="application/rss+xml" title="Zudio Trent Ltd » Feed" href="#feed/">
 <link rel="alternate" type="application/rss+xml" title="Zudio Trent Ltd » Comments Feed" href="#comments/feed/">
 
-<meta name="viewport" content="width=device-width, initial-scale=1">
+ 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 
@@ -173,11 +173,11 @@ flexibility(document.documentElement);
 																									<div class="site-header-primary-section-right site-header-section ast-flex ast-grid-right-section">
 										<div class="ast-builder-menu-1 ast-builder-menu ast-flex ast-builder-menu-1-focus-item ast-builder-layout-element site-header-focus-item" data-section="section-hb-menu-1">
 			<div class="ast-main-header-bar-alignment"><div class="main-header-bar-navigation"><nav class="site-navigation ast-flex-grow-1 navigation-accessibility site-header-focus-item" id="primary-site-navigation-desktop" aria-label="Site Navigation: Primary (3)" itemtype="https://schema.org/SiteNavigationElement" itemscope="itemscope"><div class="main-navigation ast-inline-flex"><ul id="ast-hf-menu-1" class="main-header-menu ast-menu-shadow ast-nav-menu ast-flex  submenu-with-border stack-on-mobile"><li id="menu-item-105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-105"><a href="#home-2/" class="menu-link">Home</a></li>
-<li id="menu-item-106" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-106"><a href="#services" class="menu-link">Services</a></li>
-<li id="menu-item-107" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-107"><a href="#about" class="menu-link">About</a></li>
-<li id="menu-item-108" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-108"><a href="#reviews" class="menu-link">Reviews</a></li>
-<li id="menu-item-109" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-109"><a href="#whyus" class="menu-link">Why Us</a></li>
-<li id="menu-item-110" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-110"><a href="#contact" class="menu-link">Contact</a></li>
+<li id="menu-item-106" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-106"><a href="services.php" class="menu-link">Services</a></li>
+<li id="menu-item-107" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-107"><a href="about.php" class="menu-link">About</a></li>
+<li id="menu-item-108" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-108"><a href="services.php" class="menu-link">Reviews</a></li>
+<li id="menu-item-109" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-109"><a href="whyus.php" class="menu-link">Why Us</a></li>
+<li id="menu-item-110" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-110"><a href="about.php" class="menu-link">Contact</a></li>
 </ul></div></nav></div></div>		</div>
 				<div class="ast-builder-layout-element ast-flex site-header-focus-item" data-section="section-hb-social-icons-1">
 			<div class="ast-header-social-1-wrap ast-header-social-wrap"><div class="header-social-inner-wrap element-social-inner-wrap social-show-label-false ast-social-color-type-custom ast-social-stack-none ast-social-element-style-filled"><a href="#" aria-label="Instagram" target="_blank" rel="noopener noreferrer" style="--color: #8a3ab9; --background-color: transparent;" class="ast-builder-social-element ast-inline-flex ast-instagram header-social-item"><span class="ahfb-svg-iconset ast-inline-flex svg-baseline"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path></svg></span></a><a href="#" aria-label="Facebook" target="_blank" rel="noopener noreferrer" style="--color: #557dbc; --background-color: transparent;" class="ast-builder-social-element ast-inline-flex ast-facebook header-social-item"><span class="ahfb-svg-iconset ast-inline-flex svg-baseline"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"></path></svg></span></a><a href="#" aria-label="Twitter" target="_blank" rel="noopener noreferrer" style="--color: #7acdee; --background-color: transparent;" class="ast-builder-social-element ast-inline-flex ast-twitter header-social-item"><span class="ahfb-svg-iconset ast-inline-flex svg-baseline"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg></span></a></div></div>		</div>
@@ -215,11 +215,11 @@ flexibility(document.documentElement);
 				<div class="ast-mobile-header-content content-align-flex-start ">
 						<div class="ast-builder-menu-mobile ast-builder-menu ast-builder-menu-mobile-focus-item ast-builder-layout-element site-header-focus-item" data-section="section-header-mobile-menu">
 			<div class="ast-main-header-bar-alignment"><div class="main-header-bar-navigation"><nav class="site-navigation ast-flex-grow-1 navigation-accessibility site-header-focus-item" id="ast-mobile-site-navigation" aria-label="Site Navigation: Primary (4)" itemtype="https://schema.org/SiteNavigationElement" itemscope="itemscope"><div class="main-navigation"><ul id="ast-hf-mobile-menu" class="main-header-menu ast-nav-menu ast-flex  submenu-with-border astra-menu-animation-fade  stack-on-mobile"><li id="menu-item-111" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111"><a href="#home-2/" class="menu-link">Home</a></li>
-<li id="menu-item-112" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112"><a href="#services" class="menu-link">Services</a></li>
-<li id="menu-item-113" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-113"><a href="#about" class="menu-link">About</a></li>
+<li id="menu-item-112" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112"><a href="services.php" class="menu-link">Services</a></li>
+<li id="menu-item-113" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-113"><a href="about.php" class="menu-link">About</a></li>
 <li id="menu-item-114" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-114"><a href="#reviews" class="menu-link">Reviews</a></li>
-<li id="menu-item-115" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-115"><a href="#whyus" class="menu-link">Why Us</a></li>
-<li id="menu-item-116" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-116"><a href="#contact" class="menu-link">Contact</a></li>
+<li id="menu-item-115" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-115"><a href="whyus.php" class="menu-link">Why Us</a></li>
+<li id="menu-item-116" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-116"><a href="about.php" class="menu-link">Contact</a></li>
 </ul></div></nav></div></div>		</div>
 					</div>
 			</div>
@@ -517,45 +517,70 @@ form {
   <link rel="stylesheet" href="./tatazudiodistributor_files/style.css">
   <link rel="stylesheet" type="text/css" href="./tatazudiodistributor_files/all.min.css">
 
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .footer {
+            background-color: #343a40;
+            color: #fff;
+            padding: 40px 0;
+        }
+        .footer-col {
+            margin-bottom: 30px;
+        }
+        .footer-col h4 {
+            font-size: 18px;
+            margin-bottom: 20px;
+        }
+        .footer-col ul {
+            list-style: none;
+            padding: 0;
+        }
+        .footer-col ul li {
+            margin-bottom: 10px;
+        }
+        .footer-col ul li a {
+            color: #fff;
+            text-decoration: none;
+        }
+        .footer-col ul li a:hover {
+            color: #17a2b8;
+        }
+    </style>
 
+<footer class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 footer-col">
+                    <h4>TATA ZUDIO</h4>
+                    <ul>
+                        <li><a href="about.php">About us</a></li>
+                        <li><a href="#">Privacy policy</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-4 footer-col">
+                    <h4>Get Help</h4>
+                    <ul>
+                        <li><a href="#">FAQ</a></li>
+                        <li><a href="#">Zudio Distribution Partnership</a></li>
+                        <li><a href="#">Zudio Partner Sales Network</a></li>
+                        <li><a href="#">Zudio Franchise Distribution Network</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-4 footer-col">
+                    <h4>Contact Us</h4>
+                    <ul>
+                        <li>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d173816.88230227152!2d72.7960266924099!3d19.212573501230974!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3be7b18d5f8e958f%3A0xf28121344bb71e47!2sYashprabha%20CHS%2C%20Kastur%20Park%20Rd%2C%20Shimpoli%2C%20Borivali%20West%2C%20Mumbai%2C%20Maharashtra%20400092!3m2!1d19.2236065!2d72.8486224!5e0!3m2!1sen!2sin!4v1722776505902!5m2!1sen!2sin" width="100%" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
 
-  <footer class="footer">
-  	 <div class="container">
-  	 	<div class="row">
-  	 		<div class="footer-col">
-  	 			<h4>TATA ZUDIO</h4>
-  	 			<ul>
-  	 				<li><a href="about.php">About us</a></li>
-  	 				<li><a href="#">Privacy policy</a></li>
-  	 			</ul>
-  	 		</div>
-  	 		<div class="footer-col">
-  	 			<h4>get help</h4>
-  	 			<ul>
-  	 				<li><a href="#">FAQ</a></li>  	 				 
-  	 				<li><a href="#">Zudio Distribution Partnership</a></li>  	 				 
-  	 				<li><a href="#">Zudio Partner Sales Network</a></li> 
-  	 				<li><a href="#">Zudio Franchise Distribution Network</a></li> 
-
-  	 			</ul>
-  	 		</div>
-
-
-			   <div class="footer-col">
-  	 			<h4>Contact Us</h4>
-  	 			<ul>
-  	 				<li><iframe src="https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d173816.88230227152!2d72.7960266924099!3d19.212573501230974!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3be7b18d5f8e958f%3A0xf28121344bb71e47!2sYashprabha%20CHS%2C%20Kastur%20Park%20Rd%2C%20Shimpoli%2C%20Borivali%20West%2C%20Mumbai%2C%20Maharashtra%20400092!3m2!1d19.2236065!2d72.8486224!5e0!3m2!1sen!2sin!4v1722776505902!5m2!1sen!2sin" width="100%"   style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></li>
-  	 				 
-  	 			</ul>
-  	 		</div>
-
-			
-  	 		 
-  	 		 
-  	 	</div>
-  	 </div>
-  </footer>
-
+	<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
 
 		</div>
