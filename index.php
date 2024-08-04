@@ -525,8 +525,7 @@ form {
   	 		<div class="footer-col">
   	 			<h4>TATA ZUDIO</h4>
   	 			<ul>
-  	 				<li><a href="#">About us</a></li>
-  	 				<li><a href="#">Our services</a></li>
+  	 				<li><a href="about.php">About us</a></li>
   	 				<li><a href="#">Privacy policy</a></li>
   	 			</ul>
   	 		</div>
