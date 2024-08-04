@@ -375,7 +375,7 @@ form {
 				<div class="col-12">
 					<h2 class="mb-4">ZUDIO FRANCHISE APPLY ONLINE</h2>
 					<p>
-						Applying for a Zudio franchise can be a rewarding experience for fashion enthusiasts looking to run their businesses. By following these steps and contacting the Zudio franchise team, you can increase your chances of becoming a successful Zudio franchisee.
+						Step into the fashion world with a Zudio franchise and turn your business aspirations into reality. Use these steps and connect with the Zudio franchise team to boost your chances of running a successful franchise.
 					</p>
 					<form method="post" name="Zudio Franchise Application Form" action="save.php">
 
@@ -525,31 +525,22 @@ form {
   	 		<div class="footer-col">
   	 			<h4>TATA ZUDIO</h4>
   	 			<ul>
-  	 				<li><a href="#">about us</a></li>
-  	 				<li><a href="#">our services</a></li>
-  	 				<li><a href="#">privacy policy</a></li>
-  	 				<li><a href="#">affiliate program</a></li>
+  	 				<li><a href="#">About us</a></li>
+  	 				<li><a href="#">Our services</a></li>
+  	 				<li><a href="#">Privacy policy</a></li>
   	 			</ul>
   	 		</div>
   	 		<div class="footer-col">
   	 			<h4>get help</h4>
   	 			<ul>
-  	 				<li><a href="#">FAQ</a></li>
-  	 				<li><a href="#">shipping</a></li>
-  	 				<li><a href="#">returns</a></li>
-  	 				<li><a href="#">order status</a></li>
-  	 				<li><a href="#">payment options</a></li>
+  	 				<li><a href="#">FAQ</a></li>  	 				 
+  	 				<li><a href="#">Zudio Distribution Partnership</a></li>  	 				 
+  	 				<li><a href="#">Zudio Partner Sales Network</a></li> 
+  	 				<li><a href="#">Zudio Franchise Distribution Network</a></li> 
+
   	 			</ul>
   	 		</div>
-  	 		<div class="footer-col">
-  	 			<h4>online shop</h4>
-  	 			<ul>
-  	 				<li><a href="#">watch</a></li>
-  	 				<li><a href="#">bag</a></li>
-  	 				<li><a href="#">shoes</a></li>
-  	 				<li><a href="#">dress</a></li>
-  	 			</ul>
-  	 		</div>
+  	 		 
   	 		<div class="footer-col">
   	 			<h4>follow us</h4>
   	 			<div class="social-links">
