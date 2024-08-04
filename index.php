@@ -560,7 +560,7 @@ form {
                 <div class="col-md-4 footer-col">
                     <h4>Get Help</h4>
                     <ul>
-                        <li><a href="#">FAQ</a></li>
+                        <li><a href="faq.php">FAQ</a></li>
                         <li><a href="#">Zudio Distribution Partnership</a></li>
                         <li><a href="#">Zudio Partner Sales Network</a></li>
                         <li><a href="#">Zudio Franchise Distribution Network</a></li>
