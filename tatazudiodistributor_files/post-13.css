@@ -1,0 +1,95 @@
+.elementor-13 .elementor-element.elementor-element-007b56b{margin-top:146px;margin-bottom:0px;}.elementor-13 .elementor-element.elementor-element-8db87c1 .elementor-heading-title{color:#4C7688;}.elementor-13 .elementor-element.elementor-element-cd55200 .elementor-field-group{padding-right:calc( 10px/2 );padding-left:calc( 10px/2 );margin-bottom:10px;}.elementor-13 .elementor-element.elementor-element-cd55200 .elementor-form-fields-wrapper{margin-left:calc( -10px/2 );margin-right:calc( -10px/2 );margin-bottom:-10px;}.elementor-13 .elementor-element.elementor-element-cd55200 .elementor-field-group.recaptcha_v3-bottomleft, .elementor-13 .elementor-element.elementor-element-cd55200 .elementor-field-group.recaptcha_v3-bottomright{margin-bottom:0;}body.rtl .elementor-13 .elementor-element.elementor-element-cd55200 .elementor-labels-inline .elementor-field-group > label{padding-left:0px;}body:not(.rtl) .elementor-13 .elementor-element.elementor-element-cd55200 .elementor-labels-inline .elementor-field-group > label{padding-right:0px;}body .elementor-13 .elementor-element.elementor-element-cd55200 .elementor-labels-above .elementor-field-group > label{padding-bottom:0px;}.elementor-13 .elementor-element.elementor-element-cd55200 .elementor-field-type-html{padding-bottom:0px;}.elementor-13 .elementor-element.elementor-element-cd55200 .elementor-field-group:not(.elementor-field-type-upload) .elementor-field:not(.elementor-select-wrapper){background-color:#D5DBDB;}.elementor-13 .elementor-element.elementor-element-cd55200 .elementor-field-group .elementor-select-wrapper select{background-color:#D5DBDB;}.elementor-13 .elementor-element.elementor-element-cd55200 .e-form__buttons__wrapper__button-next{background-color:#3F4B41;color:#ffffff;}.elementor-13 .elementor-element.elementor-element-cd55200 .elementor-button[type="submit"]{background-color:#3F4B41;color:#ffffff;}.elementor-13 .elementor-element.elementor-element-cd55200 .elementor-button[type="submit"] svg *{fill:#ffffff;}.elementor-13 .elementor-element.elementor-element-cd55200 .e-form__buttons__wrapper__button-previous{color:#ffffff;}.elementor-13 .elementor-element.elementor-element-cd55200 .e-form__buttons__wrapper__button-next:hover{color:#ffffff;}.elementor-13 .elementor-element.elementor-element-cd55200 .elementor-button[type="submit"]:hover{color:#ffffff;}.elementor-13 .elementor-element.elementor-element-cd55200 .elementor-button[type="submit"]:hover svg *{fill:#ffffff;}.elementor-13 .elementor-element.elementor-element-cd55200 .e-form__buttons__wrapper__button-previous:hover{color:#ffffff;}.elementor-13 .elementor-element.elementor-element-cd55200 .elementor-button{border-radius:5px 5px 5px 5px;}.elementor-13 .elementor-element.elementor-element-cd55200{--e-form-steps-indicators-spacing:20px;--e-form-steps-indicator-padding:30px;--e-form-steps-indicator-inactive-secondary-color:#ffffff;--e-form-steps-indicator-active-secondary-color:#ffffff;--e-form-steps-indicator-completed-secondary-color:#ffffff;--e-form-steps-divider-width:1px;--e-form-steps-divider-gap:10px;}.elementor-13 .elementor-element.elementor-element-3d7ca82 .elementor-countdown-wrapper{max-width:100%; border: 2px solid #333;
+    border-radius: 4px; }body:not(.rtl) .elementor-13 .elementor-element.elementor-element-3d7ca82 .elementor-countdown-item:not(:first-of-type){margin-left:calc( 10px/2 );}body:not(.rtl) .elementor-13 .elementor-element.elementor-element-3d7ca82 .elementor-countdown-item:not(:last-of-type){margin-right:calc( 10px/2 );}body.rtl .elementor-13 .elementor-element.elementor-element-3d7ca82 .elementor-countdown-item:not(:first-of-type){margin-right:calc( 10px/2 );}body.rtl .elementor-13 .elementor-element.elementor-element-3d7ca82 .elementor-countdown-item:not(:last-of-type){margin-left:calc( 10px/2 );}@media(max-width:767px){.elementor-13 .elementor-element.elementor-element-007b56b{margin-top:76px;margin-bottom:0px;}.elementor-13 .elementor-element.elementor-element-3507d4a{width:var( --container-widget-width, 326px );max-width:326px;--container-widget-width:326px;--container-widget-flex-grow:0;}.elementor-13 .elementor-element.elementor-element-8b01435{margin-top:7px;margin-bottom:0px;padding:13px 0px 0px 0px;}.elementor-13 .elementor-element.elementor-element-8db87c1{text-align:left;}.elementor-13 .elementor-element.elementor-element-cd55200 > .elementor-widget-container{margin:0px 0px 7px 0px;}.elementor-13 .elementor-element.elementor-element-56f6327{margin-top:16px;margin-bottom:0px;}}/* Start custom CSS for html, class: .elementor-element-bfd6488 */@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+body{
+	line-height: 1.5;
+	font-family: 'Poppins', sans-serif;
+}
+*{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+.container{
+	max-width: 1170px;
+	margin:auto;
+}
+.row{
+	display: flex;
+	flex-wrap: wrap;
+}
+ul{
+	list-style: none;
+}
+.footer{
+	background-color: #24262b;
+    padding: 70px 0;
+	border: 2px solid #24262b;
+	border-radius: 20px !important;
+}
+.footer-col{
+   width: 25%;
+   padding: 0 15px;
+}
+.footer-col h4{
+	font-size: 18px;
+	color: #ffffff;
+	text-transform: capitalize;
+	margin-bottom: 35px;
+	font-weight: 500;
+	position: relative;
+}
+.footer-col h4::before{
+	content: '';
+	position: absolute;
+	left:0;
+	bottom: -10px;
+	background-color: #e91e63;
+	height: 2px;
+	box-sizing: border-box;
+	width: 50px;
+}
+.footer-col ul li:not(:last-child){
+	margin-bottom: 10px;
+}
+.footer-col ul li a{
+	font-size: 16px;
+	text-transform: capitalize;
+	color: #ffffff !important;
+	text-decoration: none;
+	font-weight: 300;
+	display: block;
+	transition: all 0.3s ease;
+}
+.footer-col ul li a:hover{
+	color: #ffffff;
+	padding-left: 8px;
+}
+.footer-col .social-links a{
+	display: inline-block;
+	height: 40px;
+	width: 40px;
+	background-color: rgba(255,255,255,0.2);
+	margin:0 10px 10px 0;
+	text-align: center;
+	line-height: 40px;
+	border-radius: 50%;
+	color: #ffffff;
+	transition: all 0.5s ease;
+}
+.footer-col .social-links a:hover{
+	color: #24262b;
+	background-color: #ffffff;
+}
+
+/*responsive*/
+@media(max-width: 767px){
+  .footer-col{
+    width: 50%;
+    margin-bottom: 30px;
+}
+}
+@media(max-width: 574px){
+  .footer-col{
+    width: 100%;
+}
+}/* End custom CSS */
