@@ -1,9 +1,12 @@
 <?php
  
-$scriptURL = 'https://script.google.com/macros/s/AKfycbwy_ZAPSW-J-3qXyFSmtguHP8PYrT4MZ_AMhH8nDU8jR-GaAMqFbEy3mWPzXMrfXBkDPQ/exec';
+ extract($_POST);
+ $business_type_string = implode(', ', $_POST['business_type']);
+ $business_size_string = implode(', ', $_POST['business_size']);
 
 
-// Prepare data for POST request
+$scriptURL = 'https://script.google.com/macros/s/AKfycbw5kdVFW0wr8OVVjuxtWaeUOz2tdToP073qUoo0zfKtthtMvNBW5-35eEBVw3wQy3RufA/exec';
+
 $data = array(
     'Name' => $Name,
     'Email' => $Email,
@@ -16,24 +19,10 @@ $data = array(
     'Website' => $Website,
     'own_business' => $own_business,
     'property_type' => $property_type,
-    'business_type' => $business_type,
-    'business_size' => $business_size
+    'business_type' => $business_type_string,
+    'business_size' => $business_size_string
 );
-// var name = e.parameter.Name; // Corrected the typo here
-// var email = e.parameter.Email;
-// var phone = e.parameter.Phone;
-// var franchiseType = e.parameter.FranchiseType;
-// var state = e.parameter.State;
-// var pincode = e.parameter.Pincode;
-// var businessName = e.parameter.BusinessName;
-// var businessAddress = e.parameter.BusinessAddress;
-// var website = e.parameter.Website;
-// var ownBusiness = e.parameter.own_business;
-// var propertyType = e.parameter.property_type;
-// var businessType = e.parameter.business_type;
-// var businessSize = e.parameter.business_size;
-
-
+ 
 
 // Initialize cURL
 $ch = curl_init($scriptURL);
