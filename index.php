@@ -540,16 +540,19 @@ form {
 
   	 			</ul>
   	 		</div>
-  	 		 
-  	 		<div class="footer-col">
-  	 			<h4>follow us</h4>
-  	 			<div class="social-links">
-  	 				<a href="#"><i class="fab fa-facebook-f"></i></a>
-  	 				<a href="#"><i class="fab fa-twitter"></i></a>
-  	 				<a href="#"><i class="fab fa-instagram"></i></a>
-  	 				<a href="#"><i class="fab fa-linkedin-in"></i></a>
-  	 			</div>
+
+
+			   <div class="footer-col">
+  	 			<h4>Contact Us</h4>
+  	 			<ul>
+  	 				<li><iframe src="https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d173816.88230227152!2d72.7960266924099!3d19.212573501230974!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3be7b18d5f8e958f%3A0xf28121344bb71e47!2sYashprabha%20CHS%2C%20Kastur%20Park%20Rd%2C%20Shimpoli%2C%20Borivali%20West%2C%20Mumbai%2C%20Maharashtra%20400092!3m2!1d19.2236065!2d72.8486224!5e0!3m2!1sen!2sin!4v1722776505902!5m2!1sen!2sin" width="100%"   style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></li>
+  	 				 
+  	 			</ul>
   	 		</div>
+
+			
+  	 		 
+  	 		 
   	 	</div>
   	 </div>
   </footer>
