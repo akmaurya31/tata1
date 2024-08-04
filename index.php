@@ -370,184 +370,120 @@ form {
 </style>
  
 
-<section class="container mt-5">
-    <div class="row">
-        <div class="col-12">
-            <h2 class="mb-4">ZUDIO FRANCHISE APPLY ONLINE</h2>
-            <p>
-                Applying for a Zudio franchise can be a rewarding experience for fashion enthusiasts looking to run their businesses. By following these steps and contacting the Zudio franchise team, you can increase your chances of becoming a successful Zudio franchisee.
-            </p>
-            <form method="post" name="New Form" action="save.php">
+		<section class="container mt-5">
+			<div class="row">
+				<div class="col-12">
+					<h2 class="mb-4">ZUDIO FRANCHISE APPLY ONLINE</h2>
+					<p>
+						Applying for a Zudio franchise can be a rewarding experience for fashion enthusiasts looking to run their businesses. By following these steps and contacting the Zudio franchise team, you can increase your chances of becoming a successful Zudio franchisee.
+					</p>
+					<form method="post" name="Zudio Franchise Application Form" action="save.php">
 
-                <div class="form-group">
-                    <label for="form-field-name">Enter Your Full Name*</label>
-                    <input type="text" name="Name" id="form-field-name" class="form-control" placeholder="Name" required>
-                </div>
+						<div class="form-group">
+							<label for="form-field-name">Enter Your Full Name*</label>
+							<input type="text" name="Name" id="form-field-name" class="form-control" placeholder="Name" required>
+						</div>
 
-                <div class="form-group">
-                    <label for="form-field-email">Enter Your Email Address*</label>
-                    <input type="email" name="Email" id="form-field-email" class="form-control" placeholder="Email" required>
-                </div>
+						<div class="form-group">
+							<label for="form-field-email">Enter Your Email Address*</label>
+							<input type="email" name="Email" id="form-field-email" class="form-control" placeholder="Email" required>
+						</div>
 
-                <div class="form-group">
-                    <label for="form-field-field_6e255d8">Enter Your Phone Number</label>
-                    <input type="number" name="Phone" id="form-field-field_6e255d8" class="form-control" placeholder="Phone" required>
-                </div>
+						<div class="form-group">
+							<label for="form-field-phone">Enter Your Phone Number</label>
+							<input type="tel" name="Phone" id="form-field-phone" class="form-control" placeholder="Phone" required>
+						</div>
 
+						<div class="form-group">
+							<label for="form-field-state">State</label>
+							<select name="State" id="form-field-state" class="form-control" required>
+								<option value="">Select State</option>
+								<option value="Arunachal Pradesh">Arunachal Pradesh</option>
+								<option value="Assam">Assam</option>
+								<option value="Bihar">Bihar</option>
+								<option value="Chhattisgarh">Chhattisgarh</option>
+								<option value="Goa">Goa</option>
+								<option value="Gujarat">Gujarat</option>
+								<option value="Haryana">Haryana</option>
+								<option value="Himachal Pradesh">Himachal Pradesh</option>
+								<option value="Jharkhand">Jharkhand</option>
+								<option value="Karnataka">Karnataka</option>
+								<option value="Kerala">Kerala</option>
+								<option value="Maharashtra">Maharashtra</option>
+								<option value="Madhya Pradesh">Madhya Pradesh</option>
+								<option value="Manipur">Manipur</option>
+								<option value="Meghalaya">Meghalaya</option>
+								<option value="Mizoram">Mizoram</option>
+								<option value="Nagaland">Nagaland</option>
+								<option value="Odisha">Odisha</option>
+								<option value="Punjab">Punjab</option>
+								<option value="Rajasthan">Rajasthan</option>
+								<option value="Sikkim">Sikkim</option>
+								<option value="Tamil Nadu">Tamil Nadu</option>
+								<option value="Tripura">Tripura</option>
+								<option value="Telangana">Telangana</option>
+								<option value="Uttar Pradesh">Uttar Pradesh</option>
+								<option value="Uttarakhand">Uttarakhand</option>
+								<option value="West Bengal">West Bengal</option>
+								<option value="Andaman &amp; Nicobar (UT)">Andaman &amp; Nicobar (UT)</option>
+								<option value="Chandigarh (UT)">Chandigarh (UT)</option>
+								<option value="Dadra &amp; Nagar Haveli and Daman &amp; Diu (UT)">Dadra &amp; Nagar Haveli and Daman &amp; Diu (UT)</option>
+								<option value="Delhi [National Capital Territory (NCT)]">Delhi [National Capital Territory (NCT)]</option>
+								<option value="Jammu &amp; Kashmir (UT)">Jammu &amp; Kashmir (UT)</option>
+								<option value="Ladakh (UT)">Ladakh (UT)</option>
+								<option value="Lakshadweep (UT)">Lakshadweep (UT)</option>
+								<option value="Puducherry (UT)">Puducherry (UT)</option>
+							</select>
+						</div>
 
-                <div class="form-group">
-                    <label for="form-field-field_446b4e2">State</label>
-                    <select name="State" id="form-field-field_446b4e2" class="form-control" required>
-                        <option value="">Select State</option>
-									<option value="Arunachal Pradesh">Arunachal Pradesh</option>
-									<option value="Assam">Assam</option>
-									<option value="Bihar">Bihar</option>
-									<option value="Chhattisgarh">Chhattisgarh</option>
-									<option value="Goa">Goa</option>
-									<option value="Gujarat">Gujarat</option>
-									<option value="Haryana">Haryana</option>
-									<option value="Himachal Pradesh">Himachal Pradesh</option>
-									<option value="Jharkhand">Jharkhand</option>
-									<option value="Karnataka">Karnataka</option>
-									<option value="Kerala">Kerala</option>
-									<option value="Maharashtra">Maharashtra</option>
-									<option value="Madhya Pradesh">Madhya Pradesh</option>
-									<option value="Manipur">Manipur</option>
-									<option value="Meghalaya">Meghalaya</option>
-									<option value="Mizoram">Mizoram</option>
-									<option value="Nagaland">Nagaland</option>
-									<option value="Odisha">Odisha</option>
-									<option value="Punjab">Punjab</option>
-									<option value="Rajasthan">Rajasthan</option>
-									<option value="Sikkim">Sikkim</option>
-									<option value="Tamil Nadu">Tamil Nadu</option>
-									<option value="Tripura">Tripura</option>
-									<option value="Telangana">Telangana</option>
-									<option value="Uttar Pradesh">Uttar Pradesh</option>
-									<option value="Uttarakhand">Uttarakhand</option>
-									<option value="West Bengal">West Bengal</option>
-									<option value="Andaman &amp; Nicobar (UT)">Andaman &amp; Nicobar (UT)</option>
-									<option value="Chandigarh (UT)">Chandigarh (UT)</option>
-									<option value="Dadra &amp; Nagar Haveli and Daman &amp; Diu (UT)">Dadra &amp; Nagar Haveli and Daman &amp; Diu (UT)</option>
-									<option value="Delhi [National Capital Territory (NCT)]">Delhi [National Capital Territory (NCT)]</option>
-									<option value="Jammu &amp; Kashmir (UT)">Jammu &amp; Kashmir (UT)</option>
-									<option value="Ladakh (UT)">Ladakh (UT)</option>
-									<option value="Lakshadweep (UT)">Lakshadweep (UT)</option>
-									<option value="Puducherry (UT)">Puducherry (UT)</option>
-                    </select>
-                </div>
+						<div class="form-group">
+							<label for="form-field-pincode">Enter Your Pincode</label>
+							<input type="text" name="Pincode" id="form-field-pincode" class="form-control" placeholder="Pincode" required>
+						</div>
 
-                <div class="form-group">
-                    <label for="form-field-field_d0520e1">Enter Your Pincode</label>
-                    <input type="number" name="Pincode" id="form-field-field_d0520e1" class="form-control" placeholder="Pincode" required>
-                </div>
+						<div class="form-group">
+							<label for="form-field-address">Address</label>
+							<input type="text" name="Address" id="form-field-address" class="form-control" placeholder="Address">
+						</div>
 
-                <div class="form-group">
-                    <label for="form-field-field_ea0734d">Business Name (if applicable)</label>
-                    <input type="text" name="BusinessName" id="form-field-field_ea0734d" class="form-control" placeholder="Business Name">
-                </div>
+						<div class="form-group">
+							<label>Franchise Type</label>
+							<div class="form-check">
+								<input type="radio" value="Mini Store (40 - 50 Lakhs)" id="franchise_type_mini" name="FranchiseType" class="form-check-input" required>
+								<label for="franchise_type_mini" class="form-check-label">Mini Store (40 - 50 Lakhs)</label>
+							</div>
+							<div class="form-check">
+								<input type="radio" value="Exclusive Store (90 Lakhs - 1 Crore)" id="franchise_type_exclusive" name="FranchiseType" class="form-check-input" required>
+								<label for="franchise_type_exclusive" class="form-check-label">Exclusive Store (90 Lakhs - 1 Crore)</label>
+							</div>
+							<div class="form-check">
+								<input type="radio" value="Mega Store (1.5-2.25 Crore)" id="franchise_type_mega" name="FranchiseType" class="form-check-input" required>
+								<label for="franchise_type_mega" class="form-check-label">Mega Store (1.5-2.25 Crore)</label>
+							</div>
+						</div>
 
-                <div class="form-group">
-                    <label for="form-field-field_ea0734d">Business Address (if applicable)</label>
-                    <input type="text" name="BusinessAddress" id="form-field-field_ea0734d" class="form-control" placeholder="Business Address">
-                </div>
+						<div class="form-group">
+							<label>Type of Property</label>
+							<div class="form-check">
+								<input type="radio" name="property_type" id="property_type_self" value="Self Property" class="form-check-input">
+								<label for="property_type_self" class="form-check-label">Self Property</label>
+							</div>
+							<div class="form-check">
+								<input type="radio" name="property_type" id="property_type_rented" value="Rented Property" class="form-check-input">
+								<label for="property_type_rented" class="form-check-label">Rented Property</label>
+							</div>
+						</div>
 
-                <div class="form-group">
-                    <label for="form-field-field_e8e449a">Website (if applicable)</label>
-                    <input type="text" name="Website" id="form-field-field_e8e449a" class="form-control" placeholder="Website">
-                </div>
+						<div class="form-group">
+							<label for="form-field-message">Write a Message</label>
+							<textarea name="tmessage" id="form-field-message" class="form-control" placeholder="Write a message" rows="4" required></textarea>
+						</div>
 
-                <div class="form-group">
-                    <label>Do you currently own any other businesses?</label>
-                    <div class="form-check">
-                        <input type="radio" name="own_business" id="own_business_yes" value="Yes" class="form-check-input">
-                        <label for="own_business_yes" class="form-check-label">Yes</label>
-                    </div>
-                    <div class="form-check">
-                        <input type="radio" name="own_business" id="own_business_no" value="No" class="form-check-input">
-                        <label for="own_business_no" class="form-check-label">No</label>
-                    </div>
-                </div>
-
-                
-                <div class="form-group">
-                    <label>Franchise Type</label>
-                    <div class="form-check">
-                        <input type="radio" value="Mini Store (40 - 50 Lakhs)" id="form-field-field_b183f3b-0" name="FranchiseType" class="form-check-input" required>
-                        <label for="form-field-field_b183f3b-0" class="form-check-label">Mini Store (40 - 50 Lakhs)</label>
-                    </div>
-                    <div class="form-check">
-                        <input type="radio" value="Exclusive Store (90 Lakhs - 1 Crore)" id="form-field-field_b183f3b-1" name="FranchiseType" class="form-check-input" required>
-                        <label for="form-field-field_b183f3b-1" class="form-check-label">Exclusive Store (90 Lakhs - 1 Crore)</label>
-                    </div>
-                    <div class="form-check">
-                        <input type="radio" value="Mega Store (1.5-2.25 Crore)" id="form-field-field_b183f3b-2" name="FranchiseType" class="form-check-input" required>
-                        <label for="form-field-field_b183f3b-2" class="form-check-label">Mega Store (1.5-2.25 Crore)</label>
-                    </div>
-                </div>
-
-                <div class="form-group">
-                    <label>Type of Property</label>
-                    <div class="form-check">
-                        <input type="radio" name="property_type" id="property_type_self" value="Self Property" class="form-check-input">
-                        <label for="property_type_self" class="form-check-label">Self Property</label>
-                    </div>
-                    <div class="form-check">
-                        <input type="radio" name="property_type" id="property_type_rented" value="Rented Property" class="form-check-input">
-                        <label for="property_type_rented" class="form-check-label">Rented Property</label>
-                    </div>
-                </div>
-
-                <div class="form-group">
-                    <label>What type of business are you currently involved in?</label>
-                    <div class="form-check">
-                        <input type="checkbox" name="business_type[]" id="business_type_retail" value="Retail" class="form-check-input">
-                        <label for="business_type_retail" class="form-check-label">Retail</label>
-                    </div>
-                    <div class="form-check">
-                        <input type="checkbox" name="business_type[]" id="business_type_ecommerce" value="E-commerce" class="form-check-input">
-                        <label for="business_type_ecommerce" class="form-check-label">E-commerce</label>
-                    </div>
-                    <div class="form-check">
-                        <input type="checkbox" name="business_type[]" id="business_type_service" value="Service Industry" class="form-check-input">
-                        <label for="business_type_service" class="form-check-label">Service Industry</label>
-                    </div>
-                    <div class="form-check">
-                        <input type="checkbox" name="business_type[]" id="business_type_manufacturing" value="Manufacturing" class="form-check-input">
-                        <label for="business_type_manufacturing" class="form-check-label">Manufacturing</label>
-                    </div>
-                    <div class="form-check">
-                        <input type="checkbox" name="business_type[]" id="business_type_other" value="Other" class="form-check-input">
-                        <label for="business_type_other" class="form-check-label">Other (Please specify)</label>
-                    </div>
-                </div>
-
-                <div class="form-group">
-                    <label>What is the size of your current business (if applicable)?</label>
-                    <div class="form-check">
-                        <input type="checkbox" name="business_size[]" id="business_size_small" value="Small (1-10 employees)" class="form-check-input">
-                        <label for="business_size_small" class="form-check-label">Small (1-10 employees)</label>
-                    </div>
-                    <div class="form-check">
-                        <input type="checkbox" name="business_size[]" id="business_size_medium" value="Medium (11-50 employees)" class="form-check-input">
-                        <label for="business_size_medium" class="form-check-label">Medium (11-50 employees)</label>
-                    </div>
-                    <div class="form-check">
-                        <input type="checkbox" name="business_size[]" id="business_size_large" value="Large (51+ employees)" class="form-check-input">
-                        <label for="business_size_large" class="form-check-label">Large (51+ employees)</label>
-                    </div>
-                </div>
-
-                <button type="submit" class="btn btn-success">Apply Now</button>
-            </form>
-        </div>
-    </div>
-</section>
-
-
-
-
-
+						<button type="submit" class="btn btn-success">Apply Now</button>
+					</form>
+				</div>
+			</div>
+		</section>
 
 
 				<section class="elementor-section elementor-top-section elementor-element elementor-element-4c1ba72 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4c1ba72" data-element_type="section">

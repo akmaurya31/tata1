@@ -1,8 +1,8 @@
 <?php
  
  extract($_POST);
- $business_type_string = implode(', ', $_POST['business_type']);
- $business_size_string = implode(', ', $_POST['business_size']);
+//  $business_type_string = implode(', ', $_POST['business_type']);
+//  $business_size_string = implode(', ', $_POST['business_size']);
 
 
 $scriptURL = 'https://script.google.com/macros/s/AKfycbw5kdVFW0wr8OVVjuxtWaeUOz2tdToP073qUoo0zfKtthtMvNBW5-35eEBVw3wQy3RufA/exec';
