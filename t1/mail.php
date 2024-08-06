@@ -24,7 +24,7 @@
     ➢ Company will Provide pamphlets, will give TV Ad, Radio Ad, Hoardings, News Paper Advt, Glow Sign Board.
     ➢ Company will do Vendor Registration with all the vendors for All Brand Products.
     ➢ Company will assist Stores/Exclusive Showroom in hiring & training of Employee.
-    ➢ All communication to the Store/Exclusive Showroom is done via an official Email Id -  info.distributor.india.franchise@gmail.com.
+    ➢ All communication to the Store/Exclusive Showroom is done via an official Email Id -  info.franchisepartners@gmail.com.
 
     Role Of Stores/Exclusive Showroom:-
 
@@ -80,11 +80,11 @@
 
     7) TATA ZUDIO TRENT LIMITED APPLICATION FORM (ATTACHED)
 
-    ALL REQUIRED DOCUMENT SEND AT EMAIL ID - info.distributor.india.franchise@gmail.com
+    ALL REQUIRED DOCUMENT SEND AT EMAIL ID - info.franchisepartners@gmail.com
 
 
     ADDRESS:- TRENT HOUSE, G BLOCK, PLOT NO- C-60, BESIDE CITIBANK, BANDRA KURLA COMPLEX, BANDRA EAST, MUMBAI, MAHARASHTRA - 400051 India
-    support.distributor.india.franchise@gmail.com
+    info.franchisepartners@gmail.com
 
     Thanks & Regards,
     TATA ZUDIO TRENT LIMITED.

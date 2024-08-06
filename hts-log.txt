@@ -1,0 +1,37 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 06 Aug 2024 23:40:35 at https://zudiofranchisee.org/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://zudiofranchisee.org/ -O1 "C:\My Web Sites\https___zudiofranchisee.org_" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:41:01	Warning: 	Retry after error 409 (Conflict) at link https://zudiofranchisee.org/contact.php (from https://zudiofranchisee.org/)
+23:41:01	Error: 	"Read error when decompressing" (-1) at link https://zudiofranchisee.org/about-us.html (from https://zudiofranchisee.org/)
+23:41:01	Error: 	"Read error when decompressing" (-1) at link https://zudiofranchisee.org/index.html (from https://zudiofranchisee.org/)
+23:41:01	Error: 	"Read error when decompressing" (-1) at link https://zudiofranchisee.org/product.html (from https://zudiofranchisee.org/)
+23:41:01	Error: 	"Read error when decompressing" (-1) at link https://zudiofranchisee.org/apply-now.html (from https://zudiofranchisee.org/)
+23:41:01	Error: 	"Read error when decompressing" (-1) at link https://zudiofranchisee.org/check-status.html (from https://zudiofranchisee.org/)
+23:41:01	Error: 	"Read error when decompressing" (-1) at link https://zudiofranchisee.org/contact.html (from https://zudiofranchisee.org/)
+23:41:24	Error: 	"Read error when decompressing" (-1) at link https://zudiofranchisee.org/apply-now-2.html (from https://zudiofranchisee.org/about-us.php)
+23:41:24	Warning: 	Retry after error 409 (Conflict) at link https://zudiofranchisee.org/contact.php (from https://zudiofranchisee.org/)
+23:41:25	Warning: 	File not parsed, looks like binary: https://zudiofranchisee.org/assets/css/fonts/LineIcons.html
+23:41:25	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/https___zudiofranchisee.org_/zudiofranchisee.org/assets/css/fonts/LineIcons.html
+23:41:26	Warning: 	File not parsed, looks like binary: https://zudiofranchisee.org/assets/css/fonts/icofont.html
+23:41:26	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/https___zudiofranchisee.org_/zudiofranchisee.org/assets/css/fonts/icofont.html
+23:41:26	Warning: 	File not parsed, looks like binary: https://zudiofranchisee.org/assets/css/fonts/fontawesome-webfont3e6e3e6e3e6e.html?v=4.7.0
+23:41:26	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/https___zudiofranchisee.org_/zudiofranchisee.org/assets/css/fonts/fontawesome-webfont3e6e3e6e3e6e3e6e.html
+23:41:26	Warning: 	File not parsed, looks like binary: https://zudiofranchisee.org/assets/css/fonts/fa-brands-400.html
+23:41:26	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/https___zudiofranchisee.org_/zudiofranchisee.org/assets/css/fonts/fa-brands-400.html
+23:41:26	Warning: 	File not parsed, looks like binary: https://zudiofranchisee.org/assets/css/fonts/fa-regular-400.html
+23:41:26	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/https___zudiofranchisee.org_/zudiofranchisee.org/assets/css/fonts/fa-regular-400.html
+23:41:26	Warning: 	File not parsed, looks like binary: https://zudiofranchisee.org/assets/css/fonts/fa-solid-900.html
+23:41:26	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/https___zudiofranchisee.org_/zudiofranchisee.org/assets/css/fonts/fa-solid-900.html
+23:41:27	Error: 	"Conflict" (409) after 2 retries at link https://zudiofranchisee.org/contact.php (from https://zudiofranchisee.org/)
+23:41:27	Error: 	"Read error when decompressing" (-1) at link https://zudiofranchisee.org/htdocs_error/style.html (from https://zudiofranchisee.org/assets/css/plugins/fonts/slick.html)
+23:41:27	Error: 	"Read error when decompressing" (-1) at link https://zudiofranchisee.org/maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.html (from https://zudiofranchisee.org/assets/css/plugins/fonts/slick.html)
+23:41:27	Error: 	"Read error when decompressing" (-1) at link https://zudiofranchisee.org/www.google-analytics.com/analytics.html (from https://zudiofranchisee.org/assets/css/plugins/fonts/slick.html)
+23:41:27	Error: 	"Read error when decompressing" (-1) at link https://zudiofranchisee.org/htdocs_error/something-lost.html (from https://zudiofranchisee.org/assets/css/plugins/fonts/slick.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 52 seconds : 119 links scanned, 104 files written (9942688 bytes overall) [9851500 bytes received at 189451 bytes/sec], 1011494 bytes transferred using HTTP compression in 29 files, ratio 87%, 17.0 requests per connection
+(12 errors, 14 warnings, 0 messages)
