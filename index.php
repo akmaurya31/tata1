@@ -95,7 +95,7 @@
                     <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                         <div class="single_cats">
                             <a href="apply-now.html" class="cards card-overflow card-scale mid_height">
-                                <div class="bg-image" style="background: url(zudiofranchisee.org/assets/img/bt-1.png) no-repeat" data-overlay="4"></div>
+                                <div class="bg-image one" style="background: url(zudiofranchisee.org/assets/img/bt-1.png) no-repeat" data-overlay="4"></div>
                                 <div class="ct_body">
                                     <div class="ct_body_caption center text-center">
                                         <h1 class="m-0 ft-bold lh-1 text-light fs-lg text-upper">
@@ -113,7 +113,7 @@
                     <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                         <div class="single_cats">
                             <a href="apply-now.html" class="cards card-overflow card-scale mid_height">
-                                <div class="bg-image" style="background: url(zudiofranchisee.org/assets/img/bt-2.png) no-repeat" data-overlay="4"></div>
+                                <div class="bg-image two" style="background: url(zudiofranchisee.org/assets/img/bt-2.png) no-repeat" data-overlay="4"></div>
                                 <div class="ct_body">
                                     <div class="ct_body_caption center text-center">
 
