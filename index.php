@@ -618,7 +618,7 @@
                                 <ul class="footer-menu">
                                     <li><a href="index.php">Home</a></li>
 
-                                    <li><a href="about.html">About Us</a></li>
+                                    <li><a href="about-us.html">About Us</a></li>
 
                                     <li><a href="product.html">Product</a></li>
 
