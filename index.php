@@ -616,15 +616,15 @@
                             <div class="footer_widget">
                                 <h4 class="widget_title">Our Link</h4>
                                 <ul class="footer-menu">
-                                    <li><a href="index-3.html">Home</a></li>
+                                    <li><a href="index.php">Home</a></li>
 
-                                    <li><a href="about-us-2.html">About Us</a></li>
+                                    <li><a href="about.html">About Us</a></li>
 
-                                    <li><a href="product-2.html">Product</a></li>
+                                    <li><a href="product.html">Product</a></li>
 
-                                    <li><a href="apply-now-2.html">Apply now</a></li>
-                                    <li><a href="check-status-2.html">Check Status</a></li>
-                                    <li><a href="contact-2.html">Contact </a></li>
+                                    <li><a href="apply.html">Apply now</a></li>
+                                    <li><a href="check-status.html">Check Status</a></li>
+                                    <li><a href="contact.html">Contact </a></li>
                                 </ul>
                             </div>
                         </div>
