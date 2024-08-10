@@ -1,5 +1,5 @@
 <?php
- print_r($_POST);
+//  print_r($_POST);
  extract($_POST);
 //  $business_type_string = implode(', ', $_POST['business_type']);
 //  $business_size_string = implode(', ', $_POST['business_size']);
@@ -7,7 +7,7 @@
 
 // $scriptURL = 'https://script.google.com/macros/s/AKfycbw5kdVFW0wr8OVVjuxtWaeUOz2tdToP073qUoo0zfKtthtMvNBW5-35eEBVw3wQy3RufA/exec';
 
-$scriptURL = 'https://script.google.com/macros/s/AKfycbxNLFq3oMKEgn_Wa8y3BCtTu86McuweB6bYFUrNeXBpALa0TXyylEtoT2jGCMBUokv2/exec';
+$scriptURL = 'https://script.google.com/macros/s/AKfycbyf5T6NYo8teSH1oITaMf3VF613k9jQD1t_g5KeT53UqT9xj4z-eKZETrXfetYNXHE/exec';
 
 $data = array(
     'Name' => $Name,
@@ -39,7 +39,7 @@ if ($response === false) {
     echo 'Error: ' . curl_error($ch);
 } else {
     //echo 'Response: ' . $response;
-    //header('Location: thankyou.php');
+    header('Location: thankyou.php');
     exit();
 }
 
