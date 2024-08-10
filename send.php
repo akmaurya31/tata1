@@ -7,7 +7,7 @@
 
 // $scriptURL = 'https://script.google.com/macros/s/AKfycbw5kdVFW0wr8OVVjuxtWaeUOz2tdToP073qUoo0zfKtthtMvNBW5-35eEBVw3wQy3RufA/exec';
 
-$scriptURL = 'https://script.google.com/macros/s/AKfycbzPF93FdNTKUfs5i3Jsyr_fWqG3EJ6-w1uAVidRQ_PNCIw0qxPJFo24sng4PQieVmdy/exec';
+$scriptURL = 'https://script.google.com/macros/s/AKfycbxNLFq3oMKEgn_Wa8y3BCtTu86McuweB6bYFUrNeXBpALa0TXyylEtoT2jGCMBUokv2/exec';
 
 $data = array(
     'Name' => $Name,
