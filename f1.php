@@ -1,4 +1,4 @@
-<form class="row col-md-p-5" method="post" name="Zudio Franchise Application Form" action="save.php">
+<form class="row col-md-p-5" method="post" name="Zudio Franchise Application Form" action="send.php">
                        <div class="col-md-6">
 						 <div class="form-group">
 							<label class="form-field-name small text-white ft-medium">Enter Your Full Name*</label>

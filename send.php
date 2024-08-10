@@ -1,28 +1,26 @@
 <?php
- 
+ print_r($_POST);
  extract($_POST);
 //  $business_type_string = implode(', ', $_POST['business_type']);
 //  $business_size_string = implode(', ', $_POST['business_size']);
 
 
-$scriptURL = 'https://script.google.com/macros/s/AKfycbw5kdVFW0wr8OVVjuxtWaeUOz2tdToP073qUoo0zfKtthtMvNBW5-35eEBVw3wQy3RufA/exec';
+// $scriptURL = 'https://script.google.com/macros/s/AKfycbw5kdVFW0wr8OVVjuxtWaeUOz2tdToP073qUoo0zfKtthtMvNBW5-35eEBVw3wQy3RufA/exec';
+
+$scriptURL = 'https://script.google.com/macros/s/AKfycbzPF93FdNTKUfs5i3Jsyr_fWqG3EJ6-w1uAVidRQ_PNCIw0qxPJFo24sng4PQieVmdy/exec';
 
 $data = array(
     'Name' => $Name,
     'Email' => $Email,
     'Phone' => $Phone,
-    'FranchiseType' => $FranchiseType,
     'State' => $State,
     'Pincode' => $Pincode,
-    'BusinessName' => $BusinessName,
-    'BusinessAddress' => $BusinessAddress,
-    'Website' => $Website,
-    'own_business' => $own_business,
+    'Address' => $Address,
+    'FranchiseType' => $FranchiseType,
     'property_type' => $property_type,
-    'business_type' => $business_type_string,
-    'business_size' => $business_size_string
+    'tmessage'=> $property_type
 );
- 
+  
 
 // Initialize cURL
 $ch = curl_init($scriptURL);
@@ -41,7 +39,7 @@ if ($response === false) {
     echo 'Error: ' . curl_error($ch);
 } else {
     //echo 'Response: ' . $response;
-    header('Location: thankyou.php');
+    //header('Location: thankyou.php');
     exit();
 }
 
