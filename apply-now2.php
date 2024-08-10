@@ -22,7 +22,7 @@
     <meta property="og:title" content="Apply Now">
 
     <!-- Favicons -->
-    <link rel="icon" type="image/x-icon" href="assets/img/download.html">
+    <link rel="icon" type="image/x-icon" href="assets/img/download.php">
 
     <!-- Custom CSS -->
     <link href="assets/css/styles.css" rel="stylesheet" />
@@ -41,49 +41,7 @@
         <!-- Top header  -->
         <!-- ============================================================== -->
         <!-- Start Navigation -->
-        <div class="header header-light dark-text">
-            <div class="container">
-                <nav id="navigation" class="navigation navigation-landscape">
-                    <div class="nav-header">
-                        <a class="nav-brand" href="index-2.html">
-                            <img src="assets/img/zudio%20logo.png" class="logo" alt="" />
-                        </a>
-                        <div class="nav-toggle"></div>
-                        <div class="mobile_nav">
-                            <ul>
-                                <li>
-                                    <div class="form-group mt-2">
-
-                                        <a href="apply-now.html" class="btn btn-dark">Apply Now</a>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="nav-menus-wrapper" style="transition-property: none">
-                        <ul class="nav-menu">
-                            <li><a href="index-2.html">Home</a></li>
-
-                            <li><a href="about-us.html">About Us</a></li>
-
-                            <li><a href="product.html">Product</a></li>
-
-                            <li><a href="apply-now.html">Apply now</a></li>
-                            <li><a href="check-status.html">Check Status</a></li>
-                            <li><a href="contact.html">Contact </a></li>
-                        </ul>
-
-                        <ul class="nav-menu nav-menu-social align-to-right">
-                            <li>
-                                <div class="form-group mt-2">
-                                    <a href="apply-now.html" class="btn btn-dark">Apply Now</a>
-                                </div>
-                            </li>
-                        </ul>
-                    </div>
-                </nav>
-            </div>
-        </div> <!-- End Navigation -->
+        <?php include('header.php'); ?> <!-- End Navigation -->
         <div class="clearfix"></div> <!-- End Navigation -->
         <!-- ============================================================== -->
         <!-- Top header  -->
@@ -96,7 +54,7 @@
                     <div class="colxl-12 col-lg-12 col-md-12">
                         <nav aria-label="breadcrumb">
                             <ol class="breadcrumb">
-                                <li class="breadcrumb-item"><a href="index-3.html">Home</a></li>
+                                <li class="breadcrumb-item"><a href="index-3.php">Home</a></li>
                                 <li class="breadcrumb-item active" aria-current="page">
                                     Apply Now
                                 </li>
@@ -188,103 +146,7 @@
 
 
         <!-- ============================ Footer Start ================================== -->
-        <footer class="blue-footer skin-blue-footer style-2">
-            <div class="footer-middle">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-4">
-                            <div class="footer_widget">
-                                <img src="assets/img/logo-light.png" class="img-footer small mb-2" alt="" />
-
-                                <div class="address mt-3">
-                                    Applying for a Zudio franchise can be a rewarding experience
-                                    for fashion enthusiasts looking to run their businesses. By
-                                    following these steps and contacting the Zudio franchise
-                                    team, you can increase your chances of becoming a successful
-                                    Zudio franchisee
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-md-2">
-                            <div class="footer_widget">
-                                <h4 class="widget_title">Our Link</h4>
-                                <ul class="footer-menu">
-                                    <li><a href="index-3.html">Home</a></li>
-
-                                    <li><a href="about-us-2.html">About Us</a></li>
-
-                                    <li><a href="product-2.html">Product</a></li>
-
-                                    <li><a href="apply-now-2.html">Apply now</a></li>
-                                    <li><a href="check-status-2.html">Check Status</a></li>
-                                    <li><a href="contact-2.html">Contact </a></li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="col-md-3">
-                            <div class="footer_widget">
-                                <h4 class="widget_title">OPENING HOURS</h4>
-                                <ul class="footer-menu">
-                                    <li>Monday<span> 10 Am - 6 Pm</span></li>
-                                    <li>Tuesday<span> 10 Am - 6 Pm</span></li>
-                                    <li>Wednesday <span> 10 Am - 6 Pm</span></li>
-                                    <li>Thursday<span> 10 Am - 6 Pm</span></li>
-                                    <li>Friday<span> 10 Am - 6 Pm</span></li>
-                                    <li>Saturday <span> 10 Am - 6 Pm</span></li>
-
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="col-md-3">
-                            <div class="footer_widget">
-                                <h4 class="widget_title">Get In Touch</h4>
-                                <div class="address mt-3">
-                                    Trent Limited, Trent House,
-                                    G Block, Plot No C - 60,
-                                    Beside Citibank, Bandra Kurla Complex,
-                                    Bandra (East), Mumbai 51.
-                                </div>
-                                <div class="address mt-3">
-                                    <a href="mailto:">info@zudio-franchise.co.in</a>
-                                </div>
-                                <div class="address mt-3">
-                                    <ul class="list-inline">
-                                        <li class="list-inline-item">
-                                            <a href="#"><i class="lni lni-facebook-filled"></i></a>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <a href="#"><i class="lni lni-twitter-filled"></i></a>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <a href="#"><i class="lni lni-youtube"></i></a>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <a href="#"><i class="lni lni-instagram-filled"></i></a>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <a href="#"><i class="lni lni-linkedin-original"></i></a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="footer-bottom">
-                <div class="container">
-                    <div class="row align-items-center">
-                        <div class="col-lg-12 col-md-12 text-center text-white">
-                            <p class="mb-0 text-white text-center">
-                                © 2024 Zudio Franchise All Rights Reserved.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </footer>         <!-- ============================ Footer End ================================== -->
+        <?php include('footer.php'); ?>       <!-- ============================ Footer End ================================== -->
         <a id="back2Top" class="top-scroll" title="Back to top" href="#"><i class="ti-arrow-up"></i></a>
     </div>
     <!-- ============================================================== -->
