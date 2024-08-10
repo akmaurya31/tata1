@@ -486,65 +486,7 @@
                 </div>
                 <div class="row">
                     <div class="col-md-12">
-                        <form class="row col-md-p-5" method="POST">
-                            <div class="col-md-6">
-                                <div class="form-group">
-                                    <label class="small text-white ft-medium">Enter Name *</label>
-                                    <input type="text" class="form-control" name="name" placeholder="Enter Name*" />
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="form-group">
-                                    <label class="small text-white ft-medium">Enter Mobile Number *</label>
-                                    <input type="number" class="form-control" name="phone" placeholder="Enter Mobile Number" />
-                                </div>
-                            </div>
-
-                            <div class="col-md-6">
-                                <div class="form-group">
-                                    <label class="small text-white ft-medium">Enter Email *</label>
-                                    <input type="text" class="form-control" name="email" placeholder="Enter email" />
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="form-group">
-                                    <label class="small text-white ft-medium">Enter State *</label>
-                                    <input type="text" class="form-control" name="state" placeholder="Enter State*" />
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="form-group">
-                                    <label class="small text-white ft-medium">Enter City*</label>
-                                    <input type="text" class="form-control" name="city" placeholder="Enter City" />
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="form-group">
-                                    <label class="small text-white ft-medium">Enter Pincode *</label>
-                                    <input type="number" class="form-control" name="whatsapp_no" placeholder="Enter Pincode " />
-                                </div>
-                            </div>
-                            <div class="col-md-12">
-                                <div class="form-group">
-                                    <label class="small text-dark ft-medium">Enter Message*</label>
-                                    <textarea class="form-control ht-80" name="user_message" placeholder="Enter Message"></textarea>
-                                </div>
-                            </div>
-                            <div class="col-md-12">
-                                <div class="form-group">
-                                    <input type="checkbox" name="terms" value="terms">
-                                    <label for="terms" class="text-white"> I have Accepted Terms and condition</label>
-                                </div>
-                            </div>
-
-                            <div class="col-md-12 text-center">
-                                <div class="form-group text-center">
-                                    <button type="submit" name="apply_now" class="btn btn-submit text-white">
-                                        Send Message
-                                    </button>
-                                </div>
-                            </div>
-                        </form>
+                         <?php include('f1.php'); ?>
                     </div>
                 </div>
             </div>

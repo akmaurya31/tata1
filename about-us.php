@@ -126,13 +126,10 @@
                                 </div>
                                 <div class="sng_rev_caption text-center">
                                     <div class="rev_desc mb-4">
-                                        <p class="fs-md text-white">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                                            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-                                            exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-                                            reprehenderit in voluptate velit esse cillum.</p>
+                                        <p class="fs-md text-white">Running a Zudio franchise has been a great experience. The brand's popularity ensures consistent footfall, and the support from the team is excellent.</p>
                                     </div>
                                     <div class="rev_author">
-                                        <h4 class="mb-0">Mark Jevenue</h4>
+                                        <h4 class="mb-0">Amit Sharma, Delhi</h4>
 
                                     </div>
                                 </div>
@@ -145,10 +142,7 @@
                                 </div>
                                 <div class="sng_rev_caption text-center">
                                     <div class="rev_desc mb-4">
-                                        <p class="fs-md text-white">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                                            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-                                            exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-                                            reprehenderit in voluptate velit esse cillum.</p>
+                                        <p class="fs-md text-white">The vibrant store design and strong brand presence have made my Zudio franchise a success. Initial challenges with setup were quickly resolved with their help.</p>
                                     </div>
                                     <div class="rev_author">
                                         <h4 class="mb-0">Henna Bajaj</h4>
@@ -164,14 +158,10 @@
                                 </div>
                                 <div class="sng_rev_caption text-center">
                                     <div class="rev_desc mb-4">
-                                        <p class="fs-md text-white">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                                            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-                                            exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-                                            reprehenderit in voluptate velit esse cillum.</p>
+                                        <p class="fs-md text-white">Investing in a Zudio franchise was the right decision. The training provided was thorough, and the profit margins have been promising so far.</p>
                                     </div>
                                     <div class="rev_author">
-                                        <h4 class="mb-0">John Cenna</h4>
-
+                                        <h4 class="mb-0">Vikram Singh, Jaipur</h4>
                                     </div>
                                 </div>
                             </div>
